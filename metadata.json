@@ -1,0 +1,5 @@
+{
+  "name": "Discord Bot Dashboard",
+  "description": "A modern, responsive dashboard for managing a Discord bot. It allows users to view statistics, manage servers, configure commands, and adjust bot settings through a sleek, dark-themed user interface.",
+  "requestFramePermissions": []
+}
